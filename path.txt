@@ -57,3 +57,80 @@ Level 9:
 Payload: 
 + Use strings
 :) == truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+
+======================================================
+Level 10:
+Payload: 
++ Use base64
+:) == IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
+
+======================================================
+Level 11:
+Payload: 
++ Use cyberchef rot13
+:) == 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
+
+======================================================
+Level 12:
+Payload: 
++ Use bzip2, tar, gzip
+:) == 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
+
+======================================================
+Level 13:
+Payload: 
++ Use ssh -i key
+:) == N/A
+
+======================================================
+Level 14:
+Payload: 
++ Use cat
+:) == 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
+
+======================================================
+Level 15:
+Payload: 
++ Use strings
+:) == truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+
+======================================================
+Level 16:
+Payload: 
++ Use strings
+:) == truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+
+
+
+======================================================
+Level 20:
+Payload: 
++ Use 
+:) == GbKksEFF4yrVs6il55v6gwY5aVje5f0j
+
+
+
+======================================================
+Level 21:
+Payload: 
++ Use 
+:) == gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr
+
+======================================================
+Level 22:
+Payload: 
++ Use 
+:) == Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI
+
+======================================================
+Level 23:
+Payload: 
++ Use 
+:) == UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ
+
+======================================================
+Level 20:
+Payload: 
++ Use 
+:) == GbKksEFF4yrVs6il55v6gwY5aVje5f0j
+

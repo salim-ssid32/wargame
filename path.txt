@@ -55,5 +55,5 @@ Payload:
 ======================================================
 Level 9:
 Payload: 
-+ find . -size 1033c
-:) == DXjZPULLxYr17uwoI01bNLQbtFemEgo7
++ Use strings
+:) == truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk

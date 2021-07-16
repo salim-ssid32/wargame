@@ -25,11 +25,11 @@ Payload:
 ======================================================
 Level 4:
 Payload: 
-+ cat spaces\ in\ this\ filename
-:) == UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
++ cat -- \-file0*
+:) == koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 
 ======================================================
 Level 5:
 Payload: 
-+ cat spaces\ in\ this\ filename
-:) == UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
++ find . -size 1033c
+:) == DXjZPULLxYr17uwoI01bNLQbtFemEgo7

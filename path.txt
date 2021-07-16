@@ -1,0 +1,12 @@
+Level 0:
+Payload: 
++ ssh -p 2220 bandit0@bandit.labs.overthewire.org
++ cat readme
+:) == boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+
+======================================================
+Level 1:
+Payload: 
++ python3 -c "print(open('-','r').read())"
++ cat readme
+:) == CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9

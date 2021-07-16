@@ -8,5 +8,28 @@ Payload:
 Level 1:
 Payload: 
 + python3 -c "print(open('-','r').read())"
-+ cat readme
 :) == CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+
+======================================================
+Level 2:
+Payload: 
++ cat spaces\ in\ this\ filename
+:) == UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+
+======================================================
+Level 3:
+Payload: 
++ cat inhere\.hidden
+:) == pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+
+======================================================
+Level 4:
+Payload: 
++ cat spaces\ in\ this\ filename
+:) == UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+
+======================================================
+Level 5:
+Payload: 
++ cat spaces\ in\ this\ filename
+:) == UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
